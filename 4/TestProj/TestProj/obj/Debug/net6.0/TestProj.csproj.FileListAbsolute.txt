@@ -1,0 +1,15 @@
+C:\Users\nekit\source\repos\TestProj\TestProj\bin\Debug\net6.0\TestProj.exe
+C:\Users\nekit\source\repos\TestProj\TestProj\bin\Debug\net6.0\TestProj.deps.json
+C:\Users\nekit\source\repos\TestProj\TestProj\bin\Debug\net6.0\TestProj.runtimeconfig.json
+C:\Users\nekit\source\repos\TestProj\TestProj\bin\Debug\net6.0\TestProj.dll
+C:\Users\nekit\source\repos\TestProj\TestProj\bin\Debug\net6.0\TestProj.pdb
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\TestProj.csproj.AssemblyReference.cache
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\TestProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\TestProj.AssemblyInfoInputs.cache
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\TestProj.AssemblyInfo.cs
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\TestProj.dll
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\refint\TestProj.dll
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\TestProj.pdb
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\TestProj.genruntimeconfig.cache
+C:\Users\nekit\source\repos\TestProj\TestProj\obj\Debug\net6.0\ref\TestProj.dll
