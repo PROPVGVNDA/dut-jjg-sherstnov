@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nekit\\source\\repos\\TestProj\\TestProj\\TestProj.csproj": {}
+    "C:\\Users\\nekit\\Desktop\\универ\\jjg\\dut-jjg-sherstnov\\TestProj\\TestProj\\TestProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nekit\\source\\repos\\TestProj\\TestProj\\TestProj.csproj": {
+    "C:\\Users\\nekit\\Desktop\\универ\\jjg\\dut-jjg-sherstnov\\TestProj\\TestProj\\TestProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nekit\\source\\repos\\TestProj\\TestProj\\TestProj.csproj",
+        "projectUniqueName": "C:\\Users\\nekit\\Desktop\\универ\\jjg\\dut-jjg-sherstnov\\TestProj\\TestProj\\TestProj.csproj",
         "projectName": "TestProj",
-        "projectPath": "C:\\Users\\nekit\\source\\repos\\TestProj\\TestProj\\TestProj.csproj",
+        "projectPath": "C:\\Users\\nekit\\Desktop\\универ\\jjg\\dut-jjg-sherstnov\\TestProj\\TestProj\\TestProj.csproj",
         "packagesPath": "C:\\Users\\nekit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nekit\\source\\repos\\TestProj\\TestProj\\obj\\",
+        "outputPath": "C:\\Users\\nekit\\Desktop\\универ\\jjg\\dut-jjg-sherstnov\\TestProj\\TestProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nekit\\AppData\\Roaming\\NuGet\\NuGet.Config",

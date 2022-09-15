@@ -1,5 +1,7 @@
 ﻿//Rectangle
 
+Console.OutputEncoding = System.Text.Encoding.Unicode; // відображення літери і
+
 int GetPerimiter(int a, int b)
 {
     return 2 * (a + b);
