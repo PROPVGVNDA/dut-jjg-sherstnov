@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nekit\\source\\repos\\TestProj\\TestProj\\Lab3.csproj",
+      "projectUniqueName": "C:\\Users\\nekit\\Desktop\\универ\\jjg\\dut-jjg-sherstnov\\3\\TestProj\\TestProj\\Lab3.csproj",
       "projectName": "Lab3",
-      "projectPath": "C:\\Users\\nekit\\source\\repos\\TestProj\\TestProj\\Lab3.csproj",
+      "projectPath": "C:\\Users\\nekit\\Desktop\\универ\\jjg\\dut-jjg-sherstnov\\3\\TestProj\\TestProj\\Lab3.csproj",
       "packagesPath": "C:\\Users\\nekit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nekit\\source\\repos\\TestProj\\TestProj\\obj\\",
+      "outputPath": "C:\\Users\\nekit\\Desktop\\универ\\jjg\\dut-jjg-sherstnov\\3\\TestProj\\TestProj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nekit\\AppData\\Roaming\\NuGet\\NuGet.Config",
