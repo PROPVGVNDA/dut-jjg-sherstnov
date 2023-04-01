@@ -1,0 +1,17 @@
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\bin\Debug\net7.0-windows\CalculatorPastGen.exe
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\bin\Debug\net7.0-windows\CalculatorPastGen.deps.json
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\bin\Debug\net7.0-windows\CalculatorPastGen.runtimeconfig.json
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\bin\Debug\net7.0-windows\CalculatorPastGen.dll
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\bin\Debug\net7.0-windows\CalculatorPastGen.pdb
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.csproj.AssemblyReference.cache
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.Form1.resources
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.csproj.GenerateResource.cache
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.AssemblyInfoInputs.cache
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.AssemblyInfo.cs
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.csproj.CoreCompileInputs.cache
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.dll
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\refint\CalculatorPastGen.dll
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.pdb
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\CalculatorPastGen.genruntimeconfig.cache
+C:\Users\nekit\source\repos\CalculatorPastGen\CalculatorPastGen\obj\Debug\net7.0-windows\ref\CalculatorPastGen.dll
