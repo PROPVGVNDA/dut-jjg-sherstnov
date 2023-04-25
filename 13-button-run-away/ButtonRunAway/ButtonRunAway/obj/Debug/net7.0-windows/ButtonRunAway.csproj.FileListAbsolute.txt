@@ -1,0 +1,17 @@
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\bin\Debug\net7.0-windows\ButtonRunAway.exe
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\bin\Debug\net7.0-windows\ButtonRunAway.deps.json
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\bin\Debug\net7.0-windows\ButtonRunAway.runtimeconfig.json
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\bin\Debug\net7.0-windows\ButtonRunAway.dll
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\bin\Debug\net7.0-windows\ButtonRunAway.pdb
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.csproj.AssemblyReference.cache
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.Form1.resources
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.csproj.GenerateResource.cache
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.AssemblyInfoInputs.cache
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.AssemblyInfo.cs
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.csproj.CoreCompileInputs.cache
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.dll
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\refint\ButtonRunAway.dll
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.pdb
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ButtonRunAway.genruntimeconfig.cache
+C:\Users\nekit\source\repos\ButtonRunAway\ButtonRunAway\obj\Debug\net7.0-windows\ref\ButtonRunAway.dll
